@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hariish</h1>
-<h3 align="center">A passionate Frontend Developer currently pursuing Masters degree in Software Systems.</h3>
+
+<img width="1834" alt="Make your README" src="https://github.com/Hariish-A/Hariish-A/assets/123956773/e14d1f5b-c273-44ad-b8dd-2625eabd91d2">
+
 
 - 🔭 I’m currently working on [AutoMart](https://github.com/Hariish-A/AutoMart)
 
