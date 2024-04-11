@@ -1,5 +1,6 @@
 
 <img width="1834" alt="Make your README" src="https://github.com/Hariish-A/Hariish-A/assets/123956773/e14d1f5b-c273-44ad-b8dd-2625eabd91d2">
+<img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 - 🔭 I’m currently working on [AutoMart](https://github.com/Hariish-A/AutoMart)
