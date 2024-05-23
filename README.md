@@ -3,9 +3,9 @@
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 🔭 I’m currently working on [Hand-Cricket](https://github.com/Hariish-A/Hand-Cricket)
+- 🔭 I’m currently working on [To-Do List Application](https://github.com/Hariish-A/To-Do-List-Application)
 
-- 🌱 I’m currently learning **JavaScript, React, PHP and Django**
+- 🌱 I’m currently learning **C#, .NET, Node-JS, React, PHP and Django**
 
 - 👯 I’m looking to collaborate on **Web development project**
 
