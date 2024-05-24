@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [To-Do List Application](https://github.com/Hariish-A/To-Do-List-Application)
 
-- 🌱 I’m currently learning **C#, .NET, Node-JS, React, PHP and Django**
+- 🌱 I’m currently learning **C#, .NET, Node-JS**
 
 - 👯 I’m looking to collaborate on **Web development project**
 
