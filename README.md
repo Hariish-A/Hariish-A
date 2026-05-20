@@ -3,7 +3,7 @@
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 🔭 I’m currently working on [Financial Contradiction Tracker]((https://github.com/Hariish-A/Financial-Contradiction-Tracker))
+- 🔭 I’m currently working on [Financial Contradiction Tracker](https://github.com/Hariish-A/Financial-Contradiction-Tracker)
 
 - 👯 I’m looking to collaborate on **Web development project**
 
