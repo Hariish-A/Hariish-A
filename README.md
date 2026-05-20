@@ -3,9 +3,7 @@
 <img src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 🔭 I’m currently working on [Need For Feast](https://need-for-feast-f10fc552c20f.herokuapp.com/)
-
-- 🌱 I’m currently learning **C#, .NET, Node-JS**
+- 🔭 I’m currently working on [Financial Contradiction Tracker]((https://github.com/Hariish-A/Financial-Contradiction-Tracker))
 
 - 👯 I’m looking to collaborate on **Web development project**
 
@@ -17,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hariishero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hariishero" height="30" width="40" /></a>
+<a href="https://instagram.com/_.hariixh._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.hariixh._" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hariish-alagarsamy-764b8b281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hariish-alagarsamy-764b8b281/" height="30" width="40" /></a>
 <a href="https://fb.com/hariish.raghavendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hariish.raghavendra" height="30" width="40" /></a>
-<a href="https://instagram.com/_.hariixh._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.hariixh._" height="30" width="40" /></a>
+<a href="https://twitter.com/hariishero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hariishero" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
