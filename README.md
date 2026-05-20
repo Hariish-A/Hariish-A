@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,tailwind,react,django,nodejs,javascript,.net" /><br>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,tailwind,react,django,nodejs,javascript,dotnet" /><br>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,arduino,postman,figma,latex,vscode,obsidian,ps,pr" /><br>
 </p>
 
