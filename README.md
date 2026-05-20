@@ -23,8 +23,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,tailwind,react,django,nodejs,javascript" /><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,arduino,postman,figma,latex,vscode,obsidian,pr" /><br>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,tailwind,react,django,nodejs,javascript,.net" /><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,arduino,postman,figma,latex,vscode,obsidian,ps,pr" /><br>
 </p>
 
 <img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
